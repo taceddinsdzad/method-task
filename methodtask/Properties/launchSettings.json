@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "methodtask": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
